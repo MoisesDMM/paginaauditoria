@@ -1,0 +1,35 @@
+strong{
+    font-size: 25px;
+}
+.caracteri{
+    padding-top: 4%;
+}
+.imgcontrol2{
+    margin-right: 5%;
+    margin-left: 3%;
+    -webkit-box-shadow: 10px 10px 25px 5px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 25px 5px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 25px 5px rgba(0,0,0,0.75);
+}
+.caracauditor{
+    padding-top: 2%;
+}
+.lista{
+    padding-left: 9%;
+    margin-right: 13%;
+}
+.tipos{
+    padding-top: 2%;
+}
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 2%;
+}
+.row .card-body{
+    text-align: center;
+    padding-bottom: 5%;
+    background-color: rgb(47, 23, 85);
+    color: white;
+    box-shadow: 5px 5px 10px black;
+}

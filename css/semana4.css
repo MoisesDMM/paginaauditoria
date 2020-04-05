@@ -1,0 +1,14 @@
+.imgcontrol{
+    -webkit-box-shadow: 10px 10px 25px 5px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 25px 5px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 25px 5px rgba(0,0,0,0.75);
+}
+.tip{
+    font-size: 50px;
+    padding-left: 2%;
+}
+.row{
+    padding-top: 2%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
